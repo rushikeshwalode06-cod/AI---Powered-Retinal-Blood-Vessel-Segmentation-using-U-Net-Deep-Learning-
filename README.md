@@ -9,6 +9,8 @@ The objective is to automatically identify retinal blood vessels at the pixel le
 
 The complete workflow covers dataset preparation, image preprocessing, U-Net model development, training, validation, performance evaluation, and segmentation visualization.
 
+![ml](https://github.com/rushikeshwalode06-cod/AI---Powered-Retinal-Blood-Vessel-Segmentation-using-U-Net-Deep-Learning-/blob/main/ss%20Blood%20vessel.png?raw=true)
+
 ## 🎯 Problem Statement
 
 Accurate identification of retinal blood vessels is an important task in retinal image analysis. Manual vessel annotation can be time-consuming and requires expert knowledge.
