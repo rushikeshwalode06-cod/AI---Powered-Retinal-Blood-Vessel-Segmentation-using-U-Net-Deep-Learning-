@@ -169,13 +169,13 @@ The project also visualizes the original retinal image, ground-truth mask, predi
 This project provided practical experience in:
 
  🖼️ **Semantic Image Segmentation**
- 🧠 U-Net Architecture
- 🏥 Medical Image Preprocessing
- 🎯 Pixel-Level Classification
- 🤖 Deep Learning Model Training
- 📊 Segmentation Evaluation
- ⚙️ TensorFlow/Keras Implementation
- 👁️ Computer Vision Workflows
+ 1. 🧠 U-Net Architecture
+ 2. 🏥 Medical Image Preprocessing
+ 3. 🎯 Pixel-Level Classification
+ 4. 🤖 Deep Learning Model Training
+ 5. 📊 Segmentation Evaluation
+ 6. ⚙️ TensorFlow/Keras Implementation
+ 7. 👁️ Computer Vision Workflows
 
 ## 🚀 Future Scope
 Potential improvements include:
@@ -183,20 +183,20 @@ Potential improvements include:
  1. 📈 Data Augmentation to improve model generalization
  2. 🎯 Dice Loss or combined BCE + Dice Loss
  3. 🧠 Attention U-Net architectures
- 🗂️ Larger Retinal Datasets
- ⚙️ Hyperparameter Optimization
- 🖼️ Advanced Image Preprocessing
- 🌐 Model Deployment using Streamlit or Flask
- 💡 Explainable AI for segmentation prediction
+ 4. 🗂️ Larger Retinal Datasets
+ 5. ⚙️ Hyperparameter Optimization
+ 6 🖼️ Advanced Image Preprocessing
+ 7. 🌐 Model Deployment using Streamlit or Flask
+ 8. 💡 Explainable AI for segmentation prediction
    
 ## 🏥 Applications
 
 Retinal blood vessel segmentation can support research and development in areas such as:
- 👁️ Retinal Image Analysis
- 🩺 Computer-Aided Diagnosis
- 🔬 Ophthalmic Image Processing
- 🧠 Medical Computer Vision
- 🤖 Healthcare AI Research
+ 1. 👁️ Retinal Image Analysis
+ 2. 🩺 Computer-Aided Diagnosis
+ 3. 🔬 Ophthalmic Image Processing
+ 4. 🧠 Medical Computer Vision
+ 5. 🤖 Healthcare AI Research
 
 ## 🙏 Acknowledgements
 
