@@ -168,7 +168,7 @@ The project also visualizes the original retinal image, ground-truth mask, predi
 
 This project provided practical experience in:
 
- 🖼️ Semantic Image Segmentation
+ 🖼️ **Semantic Image Segmentation**
  🧠 U-Net Architecture
  🏥 Medical Image Preprocessing
  🎯 Pixel-Level Classification
