@@ -115,14 +115,14 @@ IoU
 Early stopping is used to reduce unnecessary training when validation performance stops improving, while model checkpointing preserves the best-performing model.
 
 ## 🛠️ Technologies
-🐍 Python
-🧠 TensorFlow
-⚙️ Keras
-🩸 U-Net Architecture
-🖼️ OpenCV
-🔢 NumPy
-📊 Scikit-learn
-📈 Matplotlib
+1. 🐍 Python
+2. 🧠 TensorFlow
+3. ⚙️ Keras
+4. 🩸 U-Net Architecture
+5. 🖼️ OpenCV
+6. 🔢 NumPy
+7. 📊 Scikit-learn
+8. 📈 Matplotlib
 
 ## 🔮 Prediction
 After training, the model generates a probability map for each input image.
