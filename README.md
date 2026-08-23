@@ -1,0 +1,2 @@
+# AI---Powered-Retinal-Blood-Vessel-Segmentation-using-U-Net-Deep-Learning-
+Developed an AI-powered retinal blood vessel segmentation system using the U-Net architecture. The project processes retinal fundus images and generates pixel-level vessel masks using Deep Learning. Implemented preprocessing, model training, validation, and evaluation using Dice Coefficient, IoU, and Binary Cross-Entropy with TensorFlow/Keras.
