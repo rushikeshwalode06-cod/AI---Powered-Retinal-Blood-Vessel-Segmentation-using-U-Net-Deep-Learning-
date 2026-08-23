@@ -180,9 +180,9 @@ This project provided practical experience in:
 ## 🚀 Future Scope
 Potential improvements include:
 
- 📈 Data Augmentation to improve model generalization
- 🎯 Dice Loss or combined BCE + Dice Loss
- 🧠 Attention U-Net architectures
+ 1. 📈 Data Augmentation to improve model generalization
+ 2. 🎯 Dice Loss or combined BCE + Dice Loss
+ 3. 🧠 Attention U-Net architectures
  🗂️ Larger Retinal Datasets
  ⚙️ Hyperparameter Optimization
  🖼️ Advanced Image Preprocessing
