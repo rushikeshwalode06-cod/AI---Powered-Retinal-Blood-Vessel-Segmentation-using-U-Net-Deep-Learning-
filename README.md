@@ -25,21 +25,21 @@ The implementation uses the training images and their corresponding manually ann
 
 The project follows the following pipeline:
 
-🖼️ Retinal Fundus Image
+1. 🖼️ Retinal Fundus Image
           ↓
-⚙️ Image Preprocessing
+2. ⚙️ Image Preprocessing
           ↓
-📐 Resize 256 × 256
+3. 📐 Resize 256 × 256
           ↓
-🔢 Normalization
+4. 🔢 Normalization
           ↓
-🧠 U-Net Model
+5. 🧠 U-Net Model
           ↓
-🎯 Pixel-wise Segmentation
+6. 🎯 Pixel-wise Segmentation
           ↓
-🩸 Predicted Vessel Mask
+7. 🩸 Predicted Vessel Mask
           ↓
-📊 Evaluation & Visualization
+8. 📊 Evaluation & Visualization
 
 ## 🖼️ Data Preprocessing
 The preprocessing pipeline includes:
